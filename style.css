@@ -156,6 +156,11 @@
     flex-direction: column;
     align-items: center;
   }
+
+  #about-me {
+    font-size: 4rem;
+    width: 70%;
+  }
   
   .progress-bars-wrapper {
     margin-bottom: 10rem;
@@ -367,7 +372,9 @@
   .contact-form textarea {
     height: 10rem;
     max-height: 15rem;
+    min-height: 15rem;
     max-width: 100%;
+    min-width: 100%;
   }
   
   .contact-form .contact-form-btn {
