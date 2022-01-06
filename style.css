@@ -255,6 +255,22 @@
     overflow: hidden;
     transition: box-shadow 0.5s;
   }
+
+/* project 2 is place holder */
+
+  .project-2 {
+    display: none;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 1rem;
+    background-color: #fff;
+    box-shadow: 0.3rem 0.3rem 0.5rem #777;
+    position: relative;
+    overflow: hidden;
+    transition: box-shadow 0.5s;
+  }
+    
   
   .project:hover {
     box-shadow: 1rem 1rem 1rem #777;
